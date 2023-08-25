@@ -1,6 +1,7 @@
 body {
     background-color: lightgray;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
 }
 
 h1 {
@@ -15,6 +16,13 @@ h2 {
 li, p {
     font-weight: lighter;
     font-size: 25px;
+}
+
+#intro {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-justify: distribute-all-lines;
+    font-size: 20px;
 }
 
 #odin {
