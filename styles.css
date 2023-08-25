@@ -42,7 +42,7 @@ h2, li, p {
 
 /* chicken-tacos */
 
-#tacos, #lasagna {
+#tacos, #lasagna, #mac {
     height: auto;
     width: 380px;
     border-radius: 5%;
