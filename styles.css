@@ -8,17 +8,21 @@ h1 {
     font-size: 80px;
 }
 
-h2, li, p {
+h2 {
     font-size: 30px;
 }
 
+li, p {
+    font-weight: lighter;
+    font-size: 25px;
+}
 
 #odin {
     margin: auto;
     display: block;
     border-radius: 5%;
     height: auto;
-    width: 50%;  
+    width: 35%;  
 }
 
 #recipes {
@@ -40,7 +44,7 @@ h2, li, p {
 }
 
 
-/* chicken-tacos */
+/* chicken-tacos, lasagna, and mac-and-cheese */
 
 #tacos, #lasagna, #mac {
     height: auto;
