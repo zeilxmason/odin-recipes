@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: lightgray;
 }
 
 h1 {
@@ -7,3 +7,13 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 80px;
 }
+
+#odin {
+    margin: auto;
+    display: block;
+    border-radius: 5%;
+    height: auto;
+    width: 50%;  
+}
+
+
