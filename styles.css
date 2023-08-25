@@ -28,3 +28,17 @@ li {
     display: inline;
     text-align: left;
 }
+
+.name {
+    font-size: 400%;
+}
+
+/* chicken-tacos */
+
+#tacos {
+    height: auto;
+    width: 250px;
+    border-radius: 5%;
+    margin: auto;
+    display: block;
+}
