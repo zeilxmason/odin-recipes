@@ -1,7 +1,12 @@
+* {
+    
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
 body {
     background-color: lightgray;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
 }
 
 h1 {
@@ -13,21 +18,22 @@ h2 {
     font-size: 30px;
 }
 
-li, p {
+li {
     font-weight: lighter;
-    font-size: 25px;
+    font-size: 15px;
+    margin: auto;
 }
 
+
 #intro {
-    margin-left: 10%;
-    margin-right: 10%;
     font-size: 15px;
     font-family: 'Times New Roman';
 }
 
 #odin {
-    margin: auto;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 5%;
     height: auto;
     width: 35%;  
